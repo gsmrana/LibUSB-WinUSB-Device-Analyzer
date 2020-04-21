@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibUSB WinUSB Device Analyzer", "LibUSB WinUSB Device Analyzer\LibUSB WinUSB Device Analyzer.csproj", "{34BCA5FB-F8EF-4175-A8A5-EFA7575E27C9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LibUSB WinUSB Device Analyzer Setup", "LibUSB WinUSB Device Analyzer Setup\LibUSB WinUSB Device Analyzer Setup.vdproj", "{5BBCAFDB-ABEE-484F-8BCA-22A5569CE1C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34BCA5FB-F8EF-4175-A8A5-EFA7575E27C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BCA5FB-F8EF-4175-A8A5-EFA7575E27C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BCA5FB-F8EF-4175-A8A5-EFA7575E27C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BCA5FB-F8EF-4175-A8A5-EFA7575E27C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BBCAFDB-ABEE-484F-8BCA-22A5569CE1C2}.Debug|Any CPU.ActiveCfg = Debug
+		{5BBCAFDB-ABEE-484F-8BCA-22A5569CE1C2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE184E45-A989-4DDE-8AF3-70ABBB0D5202}
+	EndGlobalSection
+EndGlobal
